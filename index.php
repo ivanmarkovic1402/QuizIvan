@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <?php
+//array with question and answers
     $niz = array(
             array("pitanje" => "Koji od navedenih slikara je ziveo u 20 veka?", 
                   "odgovor" => "Marko Celebonovic",
